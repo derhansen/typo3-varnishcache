@@ -1,6 +1,6 @@
 # varnishcache: Varnish integration into TYPO3 CMS
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mittwald/typo3-varnishcache/Unit%20tests)
+[![Code analysis](https://github.com/mittwald/typo3-varnishcache/actions/workflows/php.yml/badge.svg)](https://github.com/mittwald/typo3-varnishcache/actions/workflows/php.yml)
 [![Packagist Version](https://img.shields.io/packagist/v/mittwald/varnishcache)](https://packagist.org/packages/mittwald/varnishcache)
 [![TYPO3 Extension Repository](https://img.shields.io/github/v/release/mittwald/typo3-varnishcache?color=f49700&label=TYPO3%20TER)](https://extensions.typo3.org/extension/varnishcache/)
 ![GitHub](https://img.shields.io/github/license/mittwald/typo3-varnishcache)
